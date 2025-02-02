@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/tenmenezes/tenmenezes/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
