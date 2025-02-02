@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/tenmenezes/tenmenezes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tenmenezes/tenmenezes/dist/github-contribution-grid-snake.svg)
 
 ###
 
