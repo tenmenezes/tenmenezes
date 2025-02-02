@@ -57,8 +57,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/tenmenezes/tenmenezes/github-contribution-grid-snake.svg)
-
 ###
 
 <div align="center">
