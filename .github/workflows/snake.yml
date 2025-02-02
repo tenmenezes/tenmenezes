@@ -2,13 +2,16 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todos os dias à meia-noite
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite UTC
   workflow_dispatch:  # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Corrige o erro do Git
+
       - uses: Platane/snk@v3
         with:
           github_user_name: tenmenezes
