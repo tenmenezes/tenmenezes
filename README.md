@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu é Yago e eu sou um Técnico de Informática. Bem vindo ao meu perfil!</h2>
+<h2 align="left">Olá👋! Me chamo Yago e eu sou um Técnico de Informática. Bem vindo ao meu perfil!</h2>
 
 ###
 
