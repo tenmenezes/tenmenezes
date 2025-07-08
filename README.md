@@ -9,7 +9,7 @@
 
 - 🌱 Atualmente estou aprendendo **POO em C#.Net/Java**
 
-- 💻 Todos os meus projetos estão disponíveis em [htpps://tenmenezes.github.io](htpps://tenmenezes.github.io)
+- 💻 Todos os meus projetos estão disponíveis em meu [portfólio](https://tenmenezes.github.io)
 
 - 💬 Pergunte-me sobre **HTML/CSS/POO/Java/Linux/Git/Github**
 
