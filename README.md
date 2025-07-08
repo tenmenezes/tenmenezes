@@ -15,7 +15,7 @@
 
 - 📫 Como chegar até mim **yago.ten.menezes@outlook.com**
 
-- ⚡ Curiosidade **Uma montagem de linguagem que levou o homem à Lua foi escrita à mão, linha por linha, por uma mulher brilhante chamada Margaret Hamilton. Ela liderou a equipe de software da NASA nos anos 60 e escreveu tanto código que, empilhado em folhas impressas, o programa ficou mais alto que ela mesma. Sem um único bug crítico em pleno voo lunar, ela provou que codigo bem escrito pode fazer história, literalmente.**
+- ⚡ Curiosidade **a linguagem assembly que levou o homem à Lua foi escrita à mão, linha por linha, por uma mulher brilhante chamada Margaret Hamilton. Ela liderou a equipe de software da NASA nos anos 60 e escreveu tanto código que, empilhado em folhas impressas, o programa ficou mais alto que ela mesma. Sem um único bug crítico em pleno voo lunar, ela provou que codigo bem escrito pode fazer história, literalmente.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="esquerda">
