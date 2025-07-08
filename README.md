@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenmenezes" alt="tenmenezes" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando no [projeto de xadrez do console](https://github.com/tenmenezes/Project-Xadrez-Console/)
+- 🔭 Atualmente estou trabalhando no [projeto de xadrez em console aplicattion](https://github.com/tenmenezes/Project-Xadrez-Console/)
 
 - 🌱 Atualmente estou aprendendo **POO em C#.Net/Java**
 
