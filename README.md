@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenmenezes" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando no [projeto de xadrez em console aplicattion](https://github.com/tenmenezes/Project-Xadrez-Console/)
 
 - 🌱 Atualmente estou aprendendo **POO em C#.Net/Java**
@@ -28,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenmenezes&show_icons=true&locale=en&layout=compact" alt="tenmenezes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tenmenezes&show_icons=true&locale=en" alt="tenmenezes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenmenezes&" alt="tenmenezes" /></p>
