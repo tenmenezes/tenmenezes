@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> </p>
 
-- 🔭 Atualmente estou trabalhando no [projeto de xadrez em console aplicattion](https://github.com/tenmenezes/Project-Xadrez-Console/)
+- 🔭 Atualmente estou trabalhando no [projeto da Nexus SixTech](https://github.com/tenmenezes/Nexus_SixTech/)
 
-- 🌱 Atualmente estou aprendendo **POO em C#.Net/Java**
+- 🌱 Atualmente estou aprendendo **Conexão web com PHP e MySQL**
 
 - 💻 Todos os meus projetos estão disponíveis em meu [portfólio](https://tenmenezes.github.io)
 
-- 💬 Pergunte-me sobre **HTML/CSS/POO/Java/Linux/Git/Github**
+- 💬 Pergunte-me sobre **POO/Linux/Git**
 
 - 📫 Como chegar até mim **yago.ten.menezes@outlook.com**
 
