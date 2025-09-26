@@ -6,17 +6,17 @@
   <img src="https://img.shields.io/github/followers/tenmenezes?label=Followers&style=flat&color=4c1" alt="GitHub followers" />
 </p>
 
- <img src="./img/code-solid-full.svg" width="20" />  Atualmente estou trabalhando no projeto [Nexus SixTech](https://github.com/tenmenezes/Nexus_SixTech/)
+ <img src="./img/code-branch-solid-full.svg" width="20" />  Atualmente estou trabalhando no projeto [Nexus SixTech](https://github.com/tenmenezes/Nexus_SixTech/)
 
  <img src="./img/brain-solid-full.svg" width="20" />  Atualmente estou aprendendo **Conexão web com PHP e MySQL**
 
  <img src="./img/diagram-project-solid-full.svg" width="20" />  Todos os meus projetos estão disponíveis em meu [portfólio](https://tenmenezes.github.io)
 
- <img src="./img/comments-solid-full.svg" width="20" />  Pergunte-me sobre **POO/Linux/Git**
+ <img src="./img/comments-regular-full.svg" width="20" />  Pergunte-me sobre **POO/Linux/Git**
 
- <img src="./img/gmail.svg" width="18" />  Como chegar até mim **yago.ten.menezes@outlook.com**
+ <img src="./img/envelope-regular-full.svg" width="20" />  Como chegar até mim **yago.ten.menezes@outlook.com**
 
- ⚡ Curiosidade **a linguagem assembly que levou o homem à Lua foi escrita à mão, linha por linha, por uma mulher brilhante chamada Margaret Hamilton. Ela liderou a equipe de software da NASA nos anos 60 e escreveu tanto código que, empilhado em folhas impressas, o programa ficou mais alto que ela mesma. Sem um único bug crítico em pleno voo lunar, ela provou que codigo bem escrito pode fazer história, literalmente.**
+ <img src="./img/bolt-solid-full.svg" width="20" /> Curiosidade **a linguagem assembly que levou o homem à Lua foi escrita à mão, linha por linha, por uma mulher brilhante chamada Margaret Hamilton. Ela liderou a equipe de software da NASA nos anos 60 e escreveu tanto código que, empilhado em folhas impressas, o programa ficou mais alto que ela mesma. Sem um único bug crítico em pleno voo lunar, ela provou que codigo bem escrito pode fazer história, literalmente.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="esquerda">
