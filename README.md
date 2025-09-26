@@ -1,9 +1,12 @@
 <h1 align="center">Olá 👋, sou Yago Menezes, bem vindo ao meu perfil do GitHub!</h1>
 <h3 align="center">Um futuro desenvolvedor Front / Back-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> 
+  <img src="https://img.shields.io/github/followers/tenmenezes?label=Followers&style=flat&color=4c1" alt="GitHub followers" />
+</p>
 
-- 🔭 Atualmente estou trabalhando no [projeto da Nexus SixTech](https://github.com/tenmenezes/Nexus_SixTech/)
+- 🔭 Atualmente estou trabalhando no projeto [Nexus SixTech](https://github.com/tenmenezes/Nexus_SixTech/)
 
 - 🌱 Atualmente estou aprendendo **Conexão web com PHP e MySQL**
 
