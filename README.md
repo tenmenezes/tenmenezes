@@ -8,7 +8,7 @@
 
  <img src="./img/code-branch-solid-full.svg" width="20" />  Atualmente estou trabalhando no projeto [Nexus SixTech](https://github.com/tenmenezes/Nexus_SixTech/)
 
- <img src="./img/brain-solid-full.svg" width="20" />  Atualmente estou aprendendo **Conexão web com PHP e MySQL**
+ <img src="./img/brain-solid-full.svg" width="20" />  Atualmente estou aprendendo **Conexão web com PHP e MySQL / Next.js e React.js**
 
  <img src="./img/diagram-project-solid-full.svg" width="20" />  Todos os meus projetos estão disponíveis em meu [portfólio](https://tenmenezes.github.io)
 
