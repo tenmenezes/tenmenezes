@@ -6,15 +6,15 @@
   <img src="https://img.shields.io/github/followers/tenmenezes?label=Followers&style=flat&color=4c1" alt="GitHub followers" />
 </p>
 
- <img src="./img/code-branch-solid-full.svg" width="20" />  Atualmente estou trabalhando no projeto [Nexus SixTech](https://github.com/tenmenezes/Nexus_SixTech/)
+- Atualmente estou trabalhando no projeto [Nexus SixTech](https://github.com/tenmenezes/Nexus_SixTech/)
 
- <img src="./img/brain-solid-full.svg" width="20" />  Atualmente estou aprendendo **Conexão web com PHP e MySQL / Next.js e React.js**
+- Atualmente estou aprendendo **Conexão web com PHP e MySQL / Next.js e React.js**
 
- <img src="./img/diagram-project-solid-full.svg" width="20" />  Todos os meus projetos estão disponíveis em meu [portfólio](https://tenmenezes.github.io)
+- Todos os meus projetos estão disponíveis em meu [portfólio](https://tenmenezes.github.io)
 
- <img src="./img/comments-regular-full.svg" width="20" />  Pergunte-me sobre **POO/Linux/Git**
+- Pergunte-me sobre **POO/Linux/Git**
 
- <img src="./img/envelope-regular-full.svg" width="20" />  Como chegar até mim **yago.ten.menezes@outlook.com**
+- Como chegar até mim **yago.ten.menezes@outlook.com**
 
 <h3 align="left"> 🔗 Conecte-se comigo</h3>
 <p align="esquerda">
