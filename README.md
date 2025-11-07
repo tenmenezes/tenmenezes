@@ -8,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> 
   <img src="https://img.shields.io/github/followers/tenmenezes?label=Followers&style=flat&color=4c1" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/tenmenezes?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/languages/top/tenmenezes/Brandify?style=flat&color=purple" />
+  <img src="https://img.shields.io/github/languages/top/tenmenezes/Brandify?style=flat&color=yellow" />
+  <img src="https://img.shields.io/github/languages/top/tenmenezes/SystemCheck?style=flat&color=blue" />
 </p>
 
 <hr/>
@@ -16,14 +17,15 @@
 <h3 align="left">💻 Sobre mim</h3>
 
 - 🚀 Projetos em andamento:
-- [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-In%20progress-red?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
-- [![Brandify](https://img.shields.io/badge/Brandify-In%20progress-red?style=flat-square)](https://github.com/tenmenezes/Brandify/)
+  -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
+  - [![Brandify](https://img.shields.io/badge/Brandify-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Brandify/)
+  - [![SystemCheck](https://img.shields.io/badge/SystemCheck-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/SystemCheck/)
 
 - 🎓 Atualmente aprendendo **Conexão Web com PHP e MySQL / Next.js / React.js**
   
 - 🌐 Todos os meus projetos estão disponíveis em meu **[portfólio](https://tenmenezes.github.io)**
   
-- ❓ Pergunte-me sobre **POO / Linux / Git**
+- ❓ Pergunte-me sobre **Lógca de Programação / Programação Orientada a Objetos / Next.js 16+ / Linux / Git**
   
 - 📧 Como chegar até mim: **yago.ten.menezes@outlook.com**
 
@@ -61,10 +63,11 @@
   <!-- Front-end -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" />
+   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 
   <!-- Frameworks / Bibliotecas -->
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-FF5A1F?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
