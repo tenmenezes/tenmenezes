@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Yago Menezes, bem vindo ao meu perfil do GitHub!</h1>
 
-<h3 align="center">Desenvolvedor Front / Back-end</h3>
+<h3 align="center">Desenvolvedor Front / Back-end / Full Stack</h3>
 
 <hr/>
 
