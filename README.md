@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/github/stars/tenmenezes?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
   <img src="https://img.shields.io/github/languages/top/tenmenezes/Brandify?style=flat&color=yellow" />
   <img src="https://img.shields.io/github/languages/top/tenmenezes/SystemCheck?style=flat&color=blue" />
+  <img src="https://img.shields.io/github/languages/top/tenmenezes/Project-Xadrez-Console?style=flat&color=purple" />
 </p>
 
 <hr/>
