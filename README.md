@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./bannerGitHub.gif" width="800" alt="Banner animado" />
+  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/bannerGitHub1.gif" width="1000" alt="Banner animado" />
 </p>
+
 
 
 <h3 align="center">Desenvolvedor Front / Back-end / Full Stack</h3>
