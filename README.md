@@ -19,8 +19,8 @@
 
 - 🚀 Projetos em andamento:
   -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
-  - [![Brandify](https://img.shields.io/badge/Brandify-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Brandify/)
-  - [![SystemCheck](https://img.shields.io/badge/SystemCheck-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/SystemCheck/)
+  - [![Brandify](https://img.shields.io/badge/Brandify-Done-darkgreen?style=flat-square)](https://github.com/tenmenezes/Brandify/)
+  - [![SystemCheck](https://img.shields.io/badge/SystemCheck-Done-darkgreen?style=flat-square)](https://github.com/tenmenezes/SystemCheck/)
 
 - 🎓 Atualmente aprendendo **Conexão Web com PHP e MySQL / Next.js / React.js**
   
