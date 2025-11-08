@@ -1,4 +1,7 @@
-<h1 align="center">Olá 👋, me chamo Yago Menezes, seja bem vindo(a) ao meu GitHub!</h1>
+<p align="center">
+  <img src="./bannerGitHub.gif" width="800" alt="Banner animado" />
+</p>
+
 
 <h3 align="center">Desenvolvedor Front / Back-end / Full Stack</h3>
 
