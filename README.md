@@ -103,6 +103,12 @@
 
 ---
 
-<h3 align="left"> 📊 Estatísticas</h3>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenmenezes&show_icons=true&locale=en&layout=compact&theme=radical" alt="tenmenezes" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tenmenezes&show_icons=true&locale=en&theme=radical" alt="tenmenezes" /></p>
+<h3 align="center">📊 Estatísticas</h3>
+
+| Stats | Linguagens |
+|:--:|:--:|
+| [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenmenezes&theme=radical&show_icons=true)](https://github.com/tenmenezes) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tenmenezes&layout=compact&theme=radical)](https://github.com/tenmenezes) |
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tenmenezes&theme=radical)](https://git.io/streak-stats)
+
+[![tenmenezes's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tenmenezes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
