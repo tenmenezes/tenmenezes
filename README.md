@@ -105,4 +105,5 @@
 
 <h3 align="left"> 📊 Estatísticas</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenmenezes&show_icons=true&locale=en&layout=compact&theme=radical" alt="tenmenezes" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tenmenezes&show_icons=true&locale=en&theme=radical" alt="tenmenezes" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tenmenezes&theme=dark)](https://git.io/streak-stats)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tenmenezes&show_icons=true&locale=en&theme=radical" alt="tenmenezes" /></p>
