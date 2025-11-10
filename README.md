@@ -101,10 +101,15 @@
 
 <h3 align="center">📊 Estatísticas</h3>
 
-| Stats | Linguagens |
-|:--:|:--:|
-| [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenmenezes&theme=radical&show_icons=true)](https://github.com/tenmenezes) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tenmenezes&layout=compact&theme=radical)](https://github.com/tenmenezes) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tenmenezes&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenmenezes&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000" height="165"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tenmenezes&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tenmenezes&background=000000&border=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ff0000&dates=ffffff&sideLabels=ff0000" height="165"/>
+</p>
 
-[![tenmenezes's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tenmenezes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tenmenezes&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
+</p>
