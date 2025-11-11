@@ -18,6 +18,7 @@
 <h3 align="left">💻 Sobre mim</h3>
 
 - 🚀 Projetos em andamento:
+  -  [![AgentIA](https://img.shields.io/badge/AgenIA-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/agentIA/)
   -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
   - [![Brandify](https://img.shields.io/badge/Brandify-Done-darkgreen?style=flat-square)](https://github.com/tenmenezes/Brandify/)
   - [![SystemCheck](https://img.shields.io/badge/SystemCheck-Done-darkgreen?style=flat-square)](https://github.com/tenmenezes/SystemCheck/)
