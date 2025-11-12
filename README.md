@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/GitHub-de-Yago-Menezes.png" width="1000" alt="Banner animado" />
+  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/GitHub-de-Yago-Menezes.png" width="1200" alt="Banner animado" />
 </p>
 
 <hr/>
@@ -20,8 +20,6 @@
 - 🚀 Projetos em andamento:
   -  [![AgentIA](https://img.shields.io/badge/AgenIA-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/agentIA/)
   -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
-  - [![Brandify](https://img.shields.io/badge/Brandify-Done-darkgreen?style=flat-square)](https://github.com/tenmenezes/Brandify/)
-  - [![SystemCheck](https://img.shields.io/badge/SystemCheck-Done-darkgreen?style=flat-square)](https://github.com/tenmenezes/SystemCheck/)
 
 - 🎓 Atualmente aprendendo **Conexão Web com PHP e MySQL / Next.js / React.js**
   
@@ -62,7 +60,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" />
-   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 
   <!-- Frameworks / Bibliotecas -->
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
