@@ -32,6 +32,7 @@
 ---
   
 <h3 align="center"> 🌐 Conecte-se comigo</h3>
+
 <p align="center">
 <a href="https://linkedin.com/in/ten-menezes" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -40,15 +41,6 @@
   <a href="https://www.instagram.com/dev_tenmenezes" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  
-  <a href="https://discord.com/channels/@Menezes" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.youtube.com/@dev_tenmenezes" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  
 </p>
 
 ---
