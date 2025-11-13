@@ -35,11 +35,11 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/ten-menezes" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
   
   <a href="https://www.instagram.com/dev_tenmenezes" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
@@ -48,38 +48,7 @@
 <h3 align="center"> ⚒️ Linguagens e Ferramentas</h3>
 
 <p align="center">
-  <!-- Front-end -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-
-  <!-- Frameworks / Bibliotecas -->
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5A1F?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-  <!-- Back-end -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-  <!-- Banco de dados -->
-  <img src="https://img.shields.io/badge/MySQL-7952B3?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <!-- Sistema Operacional -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-  <!-- Outros / Hardware -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lógica%20de%20Programação-8B5CF6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orientação%20a%20Objetos-F59E0B?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vercel,astro,vite,tailwind,bootstrap,nodejs,postman,php,java,python,c,cpp,cs,dotnet,mysql,postgresql,supabase,prisma,linux,ubuntu,git,docker,visualstudio,vscode" />
 </p>
 
 ---
