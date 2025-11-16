@@ -52,7 +52,11 @@
 </p>
 
 ---
+<h3 align="center">🔁 Commits</h3>
 
+![Pacman Graph Dark](https://raw.githubusercontent.com/tenmenezes/tenmenezes/output/pacman-contribution-graph-dark.svg)
+
+---
 <h3 align="center">📊 Estatísticas</h3>
 
 <p align="center">
