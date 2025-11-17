@@ -37,11 +37,6 @@
 <a href="https://linkedin.com/in/ten-menezes" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-  
-  <a href="https://www.instagram.com/dev_tenmenezes" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
 
 ---
 
