@@ -19,7 +19,7 @@
 
 - 🚀 Projetos em andamento:
   -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
-  -  [![HelpDesk-System](https://img.shields.io/badge/HelpDesk-System-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/agentIA/)
+  -  [![HelpDesk-System](https://img.shields.io/badge/HelpDesk-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
 
 - 🎓 Atualmente aprendendo **Conexão Web com PHP e MySQL / Next.js / React.js**
   
