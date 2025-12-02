@@ -57,9 +57,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tenmenezes&background=000000&border=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ff0000&dates=ffffff&sideLabels=ff0000" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tenmenezes&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
