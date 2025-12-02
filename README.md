@@ -43,7 +43,7 @@
 <h3 align="center"> ⚒️ Linguagens e Ferramentas</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,astro,next,vercel,nodejs,postman,php,java,python,c,cpp,cs,dotnet,mysql,postgresql,supabase,prisma,linux,ubuntu,git,docker,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next,vercel,php,java,python,cs,dotnet,mysql,linux,git,visualstudio,vscode" />
 </p>
 
 ---
