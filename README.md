@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/GitHub-de-Yago-Menezes.png" width="1200" alt="Banner animado" />
+  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/banner-yago.png" width="600" alt="Banner de Yago Menezes" />
 </p>
-
-<hr/>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> 
   <img src="https://img.shields.io/github/followers/tenmenezes?label=Followers&style=flat&color=4c1" alt="GitHub followers" />
@@ -13,7 +10,7 @@
   <img src="https://img.shields.io/github/languages/top/tenmenezes/Project-Xadrez-Console?style=flat&color=purple" />
 </p>
 
-<hr/>
+---
 
 <h3 align="left">💻 Sobre mim</h3>
 
