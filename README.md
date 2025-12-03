@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/ten-menezes" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yago.ten.menezes@outlook.com" target="_blank" rel="noreferrer">
+  <a href="mailto:yago.ten.menezes@outlook.com?subject=Olá Yago! Te achei pelo GitHub!" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
