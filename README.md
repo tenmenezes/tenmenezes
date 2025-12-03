@@ -18,29 +18,31 @@
   -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
   -  [![HelpDesk-System](https://img.shields.io/badge/HelpDesk-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
 
-- 🎓 Atualmente aprendendo **Conexão Web com PHP e MySQL / Next.js / React.js**
+- 🎓 Atualmente aprendendo **Orientação a objetos em Typescript / Framework Next.js**
   
-- 🌐 Todos os meus projetos estão disponíveis em meu **[portfólio](https://tenmenezes.github.io)**
+- 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://tenmenezes.github.io)**
   
 - ❓ Pergunte-me sobre **Lógca de Programação / Programação Orientada a Objetos / Next.js 16+ / Linux / Git**
   
-- 📧 Como chegar até mim: **yago.ten.menezes@outlook.com**
-
 ---
   
 <h3 align="center"> 🌐 Conecte-se comigo</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/ten-menezes" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://linkedin.com/in/ten-menezes" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:yago.ten.menezes@outlook.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
 <h3 align="center"> ⚒️ Linguagens e Ferramentas</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next,vercel,php,java,python,cs,dotnet,mysql,linux,git,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,astro,next,vercel,php,java,python,cs,dotnet,mysql,linux,git,visualstudio,vscode" />
 </p>
 
 ---
