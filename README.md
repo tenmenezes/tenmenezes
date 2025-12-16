@@ -23,6 +23,9 @@
 - 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://tenmenezes.github.io)**
   
 - ❓ Pergunte-me sobre **Lógca de Programação / Programação Orientada a Objetos / Next.js 16+ / Linux / Git**
+
+- 🧠 Curiosidade:
+  - Linus Torvalds, criador do Sistema Operacional Linux, em 2005, criu o sistema de versionamento mais usado do mundo atualmente, o Git, em **poucos dias.** Por seu SO        ter perdido a "gratuidade" graças ao sistema de versionamento que ele utilizava ter parado de ser acessível a todo o público.
   
 ---
   
