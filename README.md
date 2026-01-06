@@ -22,7 +22,7 @@
   
 - 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://tenmenezes.github.io)**
   
-- ❓ Pergunte-me sobre **Lógca de Programação / Programação Orientada a Objetos / Next.js 16+ / Linux / Git**
+- ❓ Pergunte-me sobre **Lógca de Programação / Programação Orientada a Objetos / Linux / Git**
 
 - 🧠 Curiosidade:
   - Linus Torvalds, criador do Linux, em 2005 **desenvolveu em poucos dias o Git**, hoje o sistema de versionamento **mais utilizado no mundo**.
