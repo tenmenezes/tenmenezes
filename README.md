@@ -62,3 +62,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tenmenezes&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A00000&height=120&section=footer"/>
