@@ -15,14 +15,14 @@
 <h3 align="left">💻 Sobre mim</h3>
 
 - 🚀 Projetos em andamento:
-  -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
   -  [![HelpDesk-System](https://img.shields.io/badge/HelpDesk-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
+  -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
 
-- 🎓 Atualmente aprendendo **Orientação a objetos em Typescript / Framework Next.js**
+- 🎓 Atualmente aprendendo **Java**
   
 - 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://tenmenezes.github.io)**
   
-- ❓ Pergunte-me sobre **Lógca de Programação / Programação Orientada a Objetos / Linux / Git**
+- ❓ Pergunte-me sobre **Lógca de Programação / Linux / Git**
 
 - 🧠 Curiosidade:
   - Linus Torvalds, criador do Linux, em 2005 **desenvolveu em poucos dias o Git**, hoje o sistema de versionamento **mais utilizado no mundo**.
