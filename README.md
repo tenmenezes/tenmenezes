@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/banner-yago.png" width="600" alt="Banner de Yago Menezes" />
+  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/BannerYago.png" width="1000" alt="Banner de Yago Menezes" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> 
