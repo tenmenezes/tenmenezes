@@ -3,8 +3,6 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> 
-  <img src="https://img.shields.io/github/followers/tenmenezes?label=Followers&style=flat&color=4c1" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/tenmenezes?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
   <img src="https://img.shields.io/github/languages/top/tenmenezes/Java-Fundamentals?style=flat&color=darkred" />
   <img src="https://img.shields.io/github/languages/top/tenmenezes/SystemCheck?style=flat&color=darkblue" />
   <img src="https://img.shields.io/github/languages/top/tenmenezes/Project-Xadrez-Console?style=flat&color=purple" />
