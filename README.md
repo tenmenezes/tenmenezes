@@ -20,7 +20,7 @@
   
 - 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://tenmenezes.github.io)**
   
-- ❓ Pergunte-me sobre **Lógca de Programação / Linux / Git**
+- ❓ Pergunte-me sobre **Lógica de Programação / Linux / Git / Java**
 
 - 🧠 Curiosidade:
   - Linus Torvalds, criador do Linux, em 2005 **desenvolveu em poucos dias o Git**, hoje o sistema de versionamento **mais utilizado no mundo**.
