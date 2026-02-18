@@ -13,14 +13,15 @@
 <h3 align="left">💻 Sobre mim</h3>
 
 - 🚀 Projetos em andamento:
-  -  [![HelpDesk-System](https://img.shields.io/badge/HelpDesk-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
+  -  [![Java](https://img.shields.io/badge/Java-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Java/)
+  -  [![HelpDesk System](https://img.shields.io/badge/HelpDesk%20-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
   -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
 
-- 🎓 Atualmente aprendendo **Java**
+- 🎓 Atualmente aprendendo **Java.**
   
-- 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://tenmenezes.github.io)**
+- 🌐 Todos os meus projetos estão disponíveis em meu **[Portfólio](https://tenmenezes.github.io).**
   
-- ❓ Pergunte-me sobre **Lógica de Programação / Linux / Git / Java**
+- ❓ Pergunte-me sobre **Lógica de Programação / Programação Orientada a Objetos / Java.**
 
 - 🧠 Curiosidade:
   - Linus Torvalds, criador do Linux, em 2005 **desenvolveu em poucos dias o Git**, hoje o sistema de versionamento **mais utilizado no mundo**.
