@@ -17,7 +17,7 @@
   -  [![HelpDesk System](https://img.shields.io/badge/HelpDesk%20-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
   -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
 
-- 🎓 Atualmente aprendendo **Java.**
+- 🎓 Atualmente aprendendo **Java - Estrutura de Dados (ED).**
   
 - 🌐 Todos os meus projetos estão disponíveis em meu **[Portfólio](https://tenmenezes.github.io).**
   
