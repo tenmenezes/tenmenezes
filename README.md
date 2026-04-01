@@ -13,9 +13,9 @@
 <h3 align="left">💻 Sobre mim</h3>
 
 - 🚀 Projetos em andamento:
+  - [![desafio](https://img.shields.io/badge/desafio-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/desafio/)
   -  [![Java](https://img.shields.io/badge/Java-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Java/)
   -  [![HelpDesk System](https://img.shields.io/badge/HelpDesk%20-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
-  -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
 
 - 🎓 Atualmente aprendendo **Java - Arquitetura Spring & Spring Boot / Docker & AWS.**
   
