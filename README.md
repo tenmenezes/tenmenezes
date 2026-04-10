@@ -13,11 +13,9 @@
 <h3 align="left">Sobre mim</h3>
 
 - Projetos em andamento:
-  - [![desafio](https://img.shields.io/badge/desafio-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/desafio/)
-  -  [![Java](https://img.shields.io/badge/Java-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/Java/)
-  -  [![HelpDesk System](https://img.shields.io/badge/HelpDesk%20-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
+  -  [![Linka](https://img.shields.io/badge/Linka-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/linka/)
 
-- Atualmente aprendendo **Java - Arquitetura Spring & Spring Boot / Docker & AWS.**
+- Atualmente aprendendo **Spring Boot / React Native**
   
 - Todos os meus projetos estão disponíveis em meu **[Portfólio](https://tenmenezes.github.io).**
   
