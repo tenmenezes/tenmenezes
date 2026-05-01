@@ -15,7 +15,7 @@
 - Projetos em andamento:
   -  [![Linka](https://img.shields.io/badge/Linka-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/linka/)
 
-- Atualmente aprendendo **Spring Boot / React Native**
+- Atualmente aprendendo **Python / React Native**
   
 - Todos os meus projetos estão disponíveis em meu **[Portfólio](https://tenmenezes.github.io).**
   
