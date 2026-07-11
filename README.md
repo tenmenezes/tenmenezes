@@ -16,7 +16,7 @@
 - Contribuições:
    >  [![Portal Nexora](https://img.shields.io/badge/Portal%20Nexora-In%20progress-darkblue?style=flat-square)](https://github.com/Instituto-Nexora/Portal_NEXORA)
 
-- Atualmente aprendendo **Python / FastAPI / SQL Alchemy / Alembic / React Native / Supabase / Next.js**
+- Atualmente aprendendo **Node.js / Express / MongoDB / Docker / Prisma ORM / Next.js**
   
 - Todos os meus projetos estão disponíveis em meu **[Portfólio](https://tenmenezes.github.io).**
   
@@ -44,7 +44,7 @@
 <h3 align="center"> Linguagens e Ferramentas</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,fastapi,java,spring,cs,dotnet,vercel,prisma,supabase,postman,mysql,postgres,ubuntu,git,github,gitlab,visualstudio,vscode,idea,npm&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,fastapi,java,spring,cs,dotnet,nodejs,express,nestjs,postman,prisma,supabase,postgres,mysql,sqlite,mongodb,docker,vercel,ubuntu,git,github,gitlab,visualstudio,vscode,idea,yarn,npm,obsidian,notion,figma&perline=5" />
 </p>
 
 <img src="https://camo.githubusercontent.com/b5adc512edd1f83f3fcddc7fa0a25d5e57605829c53f178f33fc6b2783b92185/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d413030303030266865696768743d3132302673656374696f6e3d666f6f746572" />
