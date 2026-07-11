@@ -1,50 +1,52 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/BannerYago.png" alt="Banner de Yago Menezes" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="tenmenezes" /> 
-  <img src="https://img.shields.io/github/languages/top/tenmenezes/Java-Fundamentals?style=flat&color=darkred" />
-  <img src="https://img.shields.io/github/languages/top/tenmenezes/SystemCheck?style=flat&color=darkblue" />
+  <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/BannerYago.png" alt="Yago Menezes Banner" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="Yago Menezes profile views" /> 
+  <img src="https://img.shields.io/github/languages/top/tenmenezes/Java-Fundamentals?style=flat&color=darkred" alt="Most used language in Java Fundamentals" />
+  <img src="https://img.shields.io/github/languages/top/tenmenezes/SystemCheck?style=flat&color=darkblue" alt="Most used language in SystemCheck" />
 </p>
 
 ---
 
-<h3 align="left">Sobre mim</h3>
+<h3 align="left">About me</h3>
 
-- Projetos em andamento:
-   >  [![Linka](https://img.shields.io/badge/Linka-In%20progress-darkblue?style=flat-square)](https://github.com/tenmenezes/linka/)
-- Contribuições:
-   >  [![Portal Nexora](https://img.shields.io/badge/Portal%20Nexora-In%20progress-darkblue?style=flat-square)](https://github.com/Instituto-Nexora/Portal_NEXORA)
+- Projects currently in development:
+  
+  > [![Linka](https://img.shields.io/badge/Linka-In%20Progress-darkblue?style=flat-square)](https://github.com/Org-Linka/linka/)
+  > - 
+  > [![Node.js](https://img.shields.io/badge/Nodejs-In%20Progress-darkblue?style=flat-square)](https://github.com/tenmenezes/node.js/)
 
-- Atualmente aprendendo **Node.js / Express / MongoDB / Docker / Prisma ORM / Next.js**
+- Contributions:
   
-- Todos os meus projetos estão disponíveis em meu **[Portfólio](https://tenmenezes.github.io).**
-  
-- Pergunte-me sobre **Next.js / Programação Orientada a Objetos / Java.**
+  > [![Portal Nexora](https://img.shields.io/badge/Portal%20Nexora-In%20Progress-darkblue?style=flat-square)](https://github.com/Instituto-Nexora/Portal_NEXORA)
 
-- Curiosidade:
-  - Linus Torvalds, criador do Linux, em 2005 **desenvolveu em poucos dias o Git**, hoje o sistema de versionamento **mais utilizado no mundo**.
-  - A motivação surgiu quando o **BitKeeper**, ferramenta usada no **desenvolvimento do kernel Linux**, deixou de ser gratuito para a comunidade, forçando a criação de uma     alternativa rápida, distribuída e eficiente.
-  
+- I am currently learning **Node.js, Docker, Prisma ORM and Next.js**.
+
+- All my projects are available on my **[Portfolio](https://tenmenezes.github.io)**.
+
 ---
-  
-<h3 align="center"> Conecte-se comigo</h3>
 
-<p align="center">
+<h3 align="center">Connect with me</h3><p align="center">
   <a href="https://linkedin.com/in/ten-menezes" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:yago.ten.menezes@outlook.com?subject=Olá Yago! Te achei pelo GitHub!" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:yago.ten.menezes@outlook.com?subject=Hello Yago! I found you through GitHub!" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
-<h3 align="center"> Linguagens e Ferramentas</h3>
-
+<h3 align="center">My Developer Community</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,fastapi,java,spring,cs,dotnet,nodejs,express,nestjs,postman,prisma,supabase,postgres,mysql,sqlite,mongodb,docker,vercel,ubuntu,git,github,gitlab,visualstudio,vscode,idea,yarn,npm,obsidian,notion,figma&perline=5" />
+  <a href="https://discord.gg/programador" target="_blank" rel="noreferrer">
+    <img src="https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp}" alt="Discord Server Card" />
+  </a>
 </p>
 
-<img src="https://camo.githubusercontent.com/b5adc512edd1f83f3fcddc7fa0a25d5e57605829c53f178f33fc6b2783b92185/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d413030303030266865696768743d3132302673656374696f6e3d666f6f746572" />
+---
+
+<h3 align="center">Languages and Tools</h3><p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,fastapi,java,spring,cs,dotnet,nodejs,express,nestjs,postman,prisma,supabase,postgres,mysql,sqlite,mongodb,docker,vercel,ubuntu,git,github,gitlab,visualstudio,vscode,idea,yarn,npm,obsidian,notion,figma&perline=5" alt="Languages and development tools" />
+</p>
+<img src="https://camo.githubusercontent.com/b5adc512edd1f83f3fcddc7fa0a25d5e57605829c53f178f33fc6b2783b92185/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d413030303030266865696768743d3132302673656374696f6e3d666f6f746572" alt="Footer decoration" />
