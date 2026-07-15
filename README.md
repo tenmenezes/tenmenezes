@@ -43,6 +43,13 @@
 
 ---
 
+<h3 align="center">GitHub Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-sooty.vercel.app/api?username=tenmenezes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff&count_private=true" alt="Yago Menezes GitHub statistics" />
+</p>
+
+---
+
 <h3 align="center">My Developer Community</h3>
 <p align="center">
   <a href="https://discord.gg/programador" target="_blank" rel="noreferrer">
