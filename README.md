@@ -12,12 +12,12 @@
 
 - Projects currently in development:
   
-  > [![Linka](https://img.shields.io/badge/Linka-In%20Progress-darkblue?style=flat-square)](https://github.com/Org-Linka/linka/)
-  > - 
   > [![Node.js](https://img.shields.io/badge/Nodejs-In%20Progress-darkblue?style=flat-square)](https://github.com/tenmenezes/node.js/)
 
 - Contributions:
   
+  > [![Linka](https://img.shields.io/badge/Linka-Completed-006400?style=flat-square)](https://github.com/Org-Linka/linka/)
+  > -
   > [![Portal Nexora](https://img.shields.io/badge/Portal%20Nexora-In%20Progress-darkblue?style=flat-square)](https://github.com/Instituto-Nexora/Portal_NEXORA)
 
 - I am currently learning **Node.js, Docker, Prisma ORM and Next.js**.
