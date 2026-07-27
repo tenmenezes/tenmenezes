@@ -37,8 +37,8 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3><p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,fastapi,java,spring,cs,dotnet,nodejs,express,nestjs,postman,prisma,supabase,postgres,mysql,sqlite,mongodb,docker,vercel,ubuntu,git,github,gitlab,visualstudio,vscode,idea,yarn,npm,obsidian,notion,figma&perline=5" alt="Languages and development tools" />
+<h3 align="center">Languages and Tools I've already used</h3><p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,fastapi,java,spring,nodejs,express,nestjs,postman,prisma,supabase,postgres,mysql,sqlite,mongodb,docker,vercel,ubuntu,git,github,gitlab,visualstudio,vscode,idea,npm,obsidian,notion&perline=5" alt="Languages and development tools" />
 </p>
 
 ---
