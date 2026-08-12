@@ -10,17 +10,11 @@
 
 <h3 align="left">About me</h3>
 
-- Projects currently in development:
-  
-  > [![Node.js](https://img.shields.io/badge/Nodejs-In%20Progress-darkblue?style=flat-square)](https://github.com/tenmenezes/node.js/)
+- Currently working as a **Junior Backend Developer**, focusing on **C#, .NET, ASP.NET Core and Entity Framework Core**.
 
-- Contributions:
-  
-  > [![Linka](https://img.shields.io/badge/Linka-Completed-006400?style=flat-square)](https://github.com/Org-Linka/linka/)
-  > -
-  > [![Portal Nexora](https://img.shields.io/badge/Portal%20Nexora-In%20Progress-darkblue?style=flat-square)](https://github.com/Instituto-Nexora/Portal_NEXORA)
+- I am currently developing my skills in **backend development, REST APIs, software architecture, databases and clean code practices**.
 
-- I am currently learning **Node.js, Docker, Prisma ORM and Next.js**.
+- Previously, I developed projects across the **Full Stack** ecosystem, working with frontend, backend, databases and application integration.
 
 - All my projects are available on my **[Portfolio](https://tenmenezes.github.io)**.
 
@@ -37,8 +31,14 @@
 
 ---
 
-<h3 align="center">Languages and Tools I've already used</h3><p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,fastapi,java,spring,nodejs,express,nestjs,postman,prisma,supabase,postgres,mysql,sqlite,mongodb,docker,vercel,ubuntu,git,github,gitlab,visualstudio,vscode,idea,npm,obsidian,notion&perline=5" alt="Languages and development tools" />
+<h3 align="center">Current Backend Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,postgres,postman,docker,git,github,gitlab,visualstudio&perline=5" alt="C#, .NET, ASP.NET Core and backend development tools" />
+</p>
+
+<h3 align="center">Other Technologies I've Used</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,fastapi,java,spring,nodejs,express,prisma,supabase,mysql,sqlite,vercel,ubuntu,vscode,idea,npm&perline=5" alt="Other technologies and development tools" />
 </p>
 
 ---
