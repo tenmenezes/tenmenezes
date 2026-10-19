@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tenmenezes/tenmenezes/main/BannerYago.png" alt="Yago Menezes Banner" />
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tenmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="Yago Menezes profile views" /> 
   <img src="https://img.shields.io/github/languages/top/tenmenezes/Java-Fundamentals?style=flat&color=darkred" alt="Most used language in Java Fundamentals" />
   <img src="https://img.shields.io/github/languages/top/tenmenezes/Project-Xadrez-Console?style=flat&color=purple" alt="Most used language in Xadrez Console" />
 </p>
