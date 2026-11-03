@@ -32,7 +32,7 @@
 
 <h3 align="center">Current Backend Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,postgres,postman,docker,git,github,gitlab,visualstudio&perline=5" alt="C#, .NET, ASP.NET Core and backend development tools" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,postman,docker,git,azure,github,gitlab,visualstudio&perline=5" alt="C#, .NET, ASP.NET Core and backend development tools" />
 </p>
 
 <h3 align="center">Other Technologies I've Used</h3>
